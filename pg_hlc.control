@@ -1,4 +1,4 @@
-comment = 'pg_hlc:  Created by pgrx'
+comment = 'PostgreSQL HLC (Hybrid Logical Clock) extension compatible with Dart CRDT library.'
 default_version = '@CARGO_VERSION@'
 module_pathname = 'pg_hlc'
 relocatable = false
